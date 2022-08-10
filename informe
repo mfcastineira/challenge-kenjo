@@ -1,0 +1,12 @@
+-Componetizar mas la arquitectura del proyecto.
+- crear modelos e interfaces
+- conexion con la base de datos
+- establecer funcionalidad de botones delete, update
+- crear funcion put para boton update 
+- album.microservices.js:
+    funcion GET
+    modif funcion de find 
+    crear funcion upDate
+
+
+    
